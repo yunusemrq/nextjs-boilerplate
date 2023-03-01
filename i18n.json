@@ -1,0 +1,19 @@
+{
+  "locales": [
+    "tr",
+    "en"
+  ],
+  "defaultLocale": "tr",
+  "pages": {
+    "*": [
+      "common"
+    ],
+    "/": [
+      "home",
+      "example"
+    ],
+    "/about": [
+      "about"
+    ]
+  }
+}
